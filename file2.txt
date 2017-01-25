@@ -1,6 +1,5 @@
 Pere Lachaise Cemetery
-
-(from https://en.wikipedia.org)
+I add this line and remove the next one.
 
 Père Lachaise Cemetery (French: Cimetière du Père-Lachaise, 
 formerly, cimetière de l'Est, "East Cemetery") is the largest cemetery
